@@ -1,5 +1,5 @@
 {
-    "name": "peip/contract.factory",
+    "name": "peip/contract-factory",
     "description": "Interfaces defining factories for PEIP",
     "type": "library",
     "license": "MIT",
